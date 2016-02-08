@@ -36,5 +36,9 @@ SublimeLinter
 
 ColorPicker
 
+SideBarEnhancements
+
+Minifier
+
 
 
